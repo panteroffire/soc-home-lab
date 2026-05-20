@@ -1,14 +1,3 @@
-## 👤 About Me
-
-I'm Abraham, currently completing my SOC Analyst certification and building this lab to translate theory into hands-on capability. My focus areas: detection engineering, threat hunting, and incident response.
-
-- 
-- **Contact:** abrahamabez@gmail.com
-
----
-
-⭐ *This is a living project — updated weekly as the lab evolves.*
-
 # 🛡️ SOC Home Lab
 
 > A fully functional Security Operations Center built from scratch — designed to develop hands-on SOC analyst skills through realistic detection engineering and incident response scenarios.
@@ -80,3 +69,11 @@ soc-home-lab/
 ├── playbooks/        → Incident response procedures
 ├── incidents/        → Writeups of simulated incidents
 └── screenshots/      → Dashboard captures and evidence
+## 👤 About Me
+
+I'm Abraham, currently completing my SOC Analyst certification and building this lab to translate theory into hands-on capability. My focus areas: detection engineering, threat hunting, and incident response.
+
+- 
+- **Contact:** abrahamabez@gmail.com
+
+⭐ *This is a living project — updated weekly as the lab evolves.*
